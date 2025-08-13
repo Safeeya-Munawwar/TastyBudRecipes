@@ -43,4 +43,4 @@ Stay updated with the latest recipes and tips by following the blog. Join my com
 
 ---
 
-© 2025 Tasty Bud Recipes | Built with ❤️ using HTML, CSS, JavaScript
+© 2023 Tasty Bud Recipes | Built with ❤️ using HTML, CSS, JavaScript
