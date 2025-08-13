@@ -40,3 +40,7 @@ Stay updated with the latest recipes and tips by following the blog. Join my com
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
+---
+
+© 2025 Tasty Bud Recipes | Built with ❤️ using HTML, CSS, JavaScript
